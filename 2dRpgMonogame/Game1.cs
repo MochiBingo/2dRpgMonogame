@@ -8,6 +8,16 @@ namespace _2dRpgMonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private int sizeX = 15;
+        private int sizeY = 10;
+        private bool canWalk;
+        private bool isExit;
+
+        private Texture mapBorder;
+        private Texture ground;
+        private Texture tree;
+
+
 
         /// <summary>
         /// this is a summary
