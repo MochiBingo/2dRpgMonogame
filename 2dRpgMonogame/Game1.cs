@@ -9,6 +9,9 @@ namespace _2dRpgMonogame
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        /// <summary>
+        /// this is a summary
+        /// </summary>
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
