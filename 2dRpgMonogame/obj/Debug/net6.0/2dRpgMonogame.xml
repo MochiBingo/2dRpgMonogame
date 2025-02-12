@@ -4,10 +4,5 @@
         <name>2dRpgMonogame</name>
     </assembly>
     <members>
-        <member name="M:_2dRpgMonogame.Game1.#ctor">
-            <summary>
-            this is a summary
-            </summary>
-        </member>
     </members>
 </doc>
