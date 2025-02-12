@@ -26,3 +26,6 @@ C:\Users\W0476692\source\repos\2dRpgMonogame\2dRpgMonogame\obj\Debug\net6.0\ref\
 C:\Users\W0476692\source\repos\2dRpgMonogame\2dRpgMonogame\bin\Debug\net6.0\2dRpgMonogame.xml
 C:\Users\W0476692\source\repos\2dRpgMonogame\2dRpgMonogame\obj\Debug\net6.0\2dRpgMonogame.sourcelink.json
 C:\Users\W0476692\source\repos\2dRpgMonogame\2dRpgMonogame\obj\Debug\net6.0\2dRpgMonogame.xml
+C:\Users\W0476692\source\repos\2dRpgMonogame\2dRpgMonogame\bin\Debug\net6.0\Content\ground1.xnb
+C:\Users\W0476692\source\repos\2dRpgMonogame\2dRpgMonogame\bin\Debug\net6.0\Content\player.xnb
+C:\Users\W0476692\source\repos\2dRpgMonogame\2dRpgMonogame\bin\Debug\net6.0\Content\tree1.xnb
