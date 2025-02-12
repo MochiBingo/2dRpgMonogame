@@ -20,7 +20,7 @@ namespace _2dRpgMonogame
 
         private Texture2D ground;
         private Texture2D tree;
-
+        
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
